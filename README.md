@@ -1,4 +1,4 @@
-# 2022-Bacson-Bentley-Hackathon
+# 2022 Babson & Bentley Hackathon
 
 ### Group 11
 ### Jinru Wei
